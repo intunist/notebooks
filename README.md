@@ -3,7 +3,8 @@ Notebooks for use in Jupyter, Colab, Kaggle, etc.
 
 Notebooks for prototyping and testing.
 
-**Note**: <ins>While these notebooks are available for anyone to use, they are primarily intended for Intunist use.</ins> As such, no community support is provided.
+**Note**: While these notebooks are available for <ins>anyone</ins> to use, they are primarily intended for Intunist use. As such, <ins>no support is provided.</ins>
+<br/>If you encounter an error with these notebooks you may open a github issue but please do not expect tailored support.
 
 Team members: please direct errors to team lead as soon as is convenient
 
