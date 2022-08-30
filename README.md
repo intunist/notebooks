@@ -1,7 +1,5 @@
 # notebooks
-Notebooks for use in Jupyter, Colab, Kaggle, etc.
-
-Notebooks for prototyping and testing.
+Notebooks for use in Jupyter, Colab, Kaggle, etc. For prototyping and testing.
 
 **Note**: While these notebooks are available for <ins>anyone</ins> to use, they are primarily intended for Intunist prototyping. As such, <ins>no support is provided.</ins>
 <br/>If you encounter an error with these notebooks you may open a github issue but please do not expect tailored support.
